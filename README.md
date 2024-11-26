@@ -13,4 +13,4 @@ This project analyzes a dataset of stolen vehicles from the New Zealand Police D
 - **SQL for ETL**: Data was extracted, cleaned, and transformed using SQL to ensure it was ready for analysis.
 - **Tableau for Visualization**: A dynamic dashboard was created to visualize trends and patterns, enabling easy exploration of insights.
   
-This project provides valuable insights into vehicle theft patterns, helping law enforcement and policymakers allocate resources effectively and develop strategies to reduce crime.
+This project provides valuable insights into vehicle theft patterns, helping law enforcement and allocate resources effectively and develop strategies to reduce crime.
