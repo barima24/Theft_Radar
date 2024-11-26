@@ -11,7 +11,7 @@ order by NoOfThefts desc;
 
 ##  Total Number of thefts occured in a particular year?
 
-select DATENAME(year,date_stolen) as Year_Stolen,,count(vehicle_id) as NoOfThefts from stolen_vehicles$
+select DATENAME(year,date_stolen) as Year_Stolen,count(vehicle_id) as NoOfThefts from stolen_vehicles$
 group by DATENAME(year,date_stolen)
 order by Year_Stolen desc;
 
