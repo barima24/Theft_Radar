@@ -4,6 +4,7 @@ Automobile Theft Tracking Analysis
 This project analyzes a dataset of stolen vehicles from the New Zealand Police Department's Vehicle of Interest Database, covering 4K+ of theft data. Each record represents a single stolen vehicle, containing details such as vehicle type, make, year, color, date stolen, and region stolen.
 
 **Overview**
+
 The Theft Radar Dashboard is a comprehensive visualization project aimed at analyzing automobile theft trends in New Zealand over 2021 and 2022. The goal of this project is to provide actionable insights for authorities and researchers by leveraging SQL for data preprocessing and Tableau for dynamic visualization. This interactive dashboard is designed to uncover trends such as theft hotspots, peak times, targeted vehicle types, and patterns across regions.
 
 **Objective**
